@@ -1,6 +1,6 @@
 {
   "name": "path_watcher",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "Um observador que executa uma função python. Esta função lê pastas, separa pdfs e os junta com um nome específico",
   "author": "Jefferson Alves de Carvalho",
   "main": "index.js",
